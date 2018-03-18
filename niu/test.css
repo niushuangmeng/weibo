@@ -1,0 +1,122 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin:0px auto; padding:0px; 
+}
+/*#nav{
+	position:fixed;
+	}*/
+#wai{
+	
+	width:600px;
+	height:auto;
+	margin-top:20px;
+	background-color:#FFF;
+	}
+
+#wai2{
+	width:560px;
+	height:209px;
+	padding:20px 20px 4px 5px;
+
+	
+	}
+
+#wai21{
+	width:600px;
+	height:39px;
+	
+	}
+
+#lie{  
+	height:39px;
+	list-style:none;
+	}
+
+.line{
+	/*border-right-width:1px;
+	border-right-style:solid;*/
+	
+	width:25%;
+	height:39px;
+	float:left;
+	text-align:center;
+	line-height:39px;
+	vertical-align:middle;
+	color:#808080;
+	}
+
+#touxiang{
+	width:50px;
+	height:54px;
+	
+	float:left;
+	}
+#neirong{
+	width:500px;
+	height:178px;
+    
+	margin-left:60px;
+	}
+#bozhu{
+	width:500px;
+	height:23px;
+	padding-top:5px;
+	margin-bottom:7px;
+	color:#333;
+	font-weight:700
+	}
+#shijian{
+	width:500px;
+	height:15px;
+	margin-bottom:2px;
+	color:#808080;
+	font-size:12px;
+	font-size:14px;
+	}
+#boke{
+	width:500px;
+	height:83px;
+	margin-bottom:2px;
+	letter-spacing:normal;
+	line-height:23px;
+	}
+.a_zan{
+	color:#808080;
+	text-decoration none;
+	}
+.a_zan:hover {
+
+　　color:yellow;text-decoration:none;color:#F96;
+
+　　}
+/* CSS */
+　　　　　　.top_sec {
+    position: fixed;
+    bottom: 74px;
+    right: 12px;
+    width: 42px;
+    z-index: 999;
+    display: none;
+   }
+    
+   #goPageTop {
+    width: 42px;
+    height: 42px;
+    margin-bottom: 10px;
+    border-radius: 50%;
+    background: url(img/go_top_icon.png) no-repeat 0 0;
+    background-size: 42px auto;
+    display: block;
+   }
+    
+   #goPageHome {
+    width: 42px;
+    height: 42px;
+    position: relative;
+    border-radius: 50%;
+    background: url(img/go_home_icon.png) no-repeat 0 0;
+    background-size: 42px auto;
+    display: block;
+   }
+ #go_top{position:fixed; LEFT: 85%;bottom:50px;}   
